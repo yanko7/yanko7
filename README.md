@@ -4,6 +4,7 @@
 - 👀 I’m a Solutions Architect for Amazon Web Services
 - 📫 reach me at: bolyanko [at] amazon
 
+I'm the author of the [amazon-s3-tar-tool](https://github.com/awslabs/amazon-s3-tar-tool) check it out!
 
 <!---
 yanko7/yanko7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
