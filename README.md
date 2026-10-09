@@ -1,8 +1,6 @@
 # Yanko Bolanos
 [![Linkedin Badge](https://img.shields.io/badge/Yanko-Bolanos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yanko-bolanos/)](https://www.linkedin.com/in/yanko-bolanos/) 
 - 👋 Hi, I’m @yanko7
-- 👀 I’m a Solutions Architect for Amazon Web Services
-- 📫 reach me at: bolyanko [at] amazon
 
 I'm the author of the [amazon-s3-tar-tool](https://github.com/awslabs/amazon-s3-tar-tool) check it out!
 
